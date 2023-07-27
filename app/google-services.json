@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1053735881955",
+    "firebase_url": "https://nodeapp-af63b-default-rtdb.firebaseio.com",
+    "project_id": "nodeapp-af63b",
+    "storage_bucket": "nodeapp-af63b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053735881955:android:6b8795492e3017698d49d6",
+        "android_client_info": {
+          "package_name": "ml.vrushaket.attendanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053735881955-ifugp7q9eafjec01go7jds1d5aq2gd5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQrx6Q7gEgqAEsgJg7g95cgdYhSAvd8NA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053735881955-ifugp7q9eafjec01go7jds1d5aq2gd5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
